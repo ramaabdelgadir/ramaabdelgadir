@@ -1,7 +1,7 @@
 <h1 align="left"> Hi, I'm Rama! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <a href="https://github.com/ramaabdelgadir">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&pause=1000&color=0f32a6&center=true&width=650&height=120&vCenter=true&lines=Welcome%20to%20my%20GitHub%20Profile%20" alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&pause=1000&color=4874f7&center=true&width=650&height=120&vCenter=true&lines=Welcome%20to%20my%20GitHub%20Profile%20" alt="typing svg"/>
 </a>
 
 # AI & ML Engineer · Flutter Developer
@@ -29,7 +29,7 @@ I aim to bridge AI with real-world applications, applying AI to real-world probl
 
 
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ramaabdelgadir&style=flat&color=blue">  
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ramaabdelgadir&style=flat&color=blue">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ramaabdelgadir?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/ramaabdelgadir?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 
