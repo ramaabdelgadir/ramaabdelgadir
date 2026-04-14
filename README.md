@@ -22,9 +22,8 @@ I am a 2025 Graduate of **Cairo University (Faculty of Computer and Artificial I
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Intelligence** | `Python`, `PyTorch`, `TensorFlow`, `LangChain`, `Scikit-learn`, `OpenCV`, `NLTK` |
-| **Model Ops** | `4-bit Quantization`, `Prompt Engineering`, `RAG Architectures`, `Instruction Tuning` |
 | **Data Engineering** | `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `MySQL` |
-| **Infrastructure** | `Git/GitHub`, `Linux`, `Docker`, `FastAPI`, `Flask API`, `Ngrok` |
+| **Infrastructure** | `Git/GitHub`, `FastAPI`, `Flask API`,` |
 
 ---
 
